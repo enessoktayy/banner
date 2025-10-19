@@ -1,0 +1,1 @@
+Bu ödevde figma'da yer alan banner isimli tasarımı koda dökmeye çalışacağım.
